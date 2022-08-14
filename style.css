@@ -1,0 +1,52 @@
+body{
+  background:url(background.jpg) no-repeat center fixed;
+  background-size: cover;
+  font-family: 'Roboto', sans-serif;
+}
+.trasparenza{
+ background:rgba(0, 0, 0, 0.5);
+ background-clip: content-box;
+ width: 80%;
+ margin: auto;
+ border-radius: 25px;
+}
+header{
+  text-align: center;
+  color: #41EB2C;
+  padding-top: 3%;
+}
+nav{
+  width: 70%;
+  margin: auto;
+  padding: 1%;
+  background-color:#41EB2C;
+  text-align: center;
+}
+main{
+  padding-bottom: 5%
+}
+section{
+  color: white;
+  width: 72%;
+  margin: auto;
+  line-height: 2px;
+}
+.carica{
+    margin-left:14%;
+    border-radius: 5px;
+}
+.m1{
+  background-color:orange;
+  color: orange;
+  width: 38%;
+}
+.m2{
+  background-color:#41AB2C;
+  color: #41AB2C;
+  width: 55%;
+}
+.m3{
+  background-color: red;
+  color: red;
+  width: 18%;
+}
